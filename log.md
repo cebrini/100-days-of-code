@@ -21,4 +21,8 @@
 
 **Thoughts:** Falsy Bouncer was surprisingly easy to solve, at least complared to Mutation of which I haven't solved yet. I'll revisit Mutation later. For now I think I'll try to complete the other challenges in the basic Algorithm section.
 
- 
+### Day 3: July 29, 2016
+
+**Today's Progress:** Still struggling, but completed the "Search and Destroy" challenge.
+
+**Thoughts:** I didn't report anything for July 28th not because I wasn't working on code, but because I didn't feel like I had anything to show for my effort. While it's true I didn't complete a challenge, I feel in retrospect that I did benefit from putting the effort in. I hope to improve and be more consistant as I complete the 100 days. I hope to do another 100 days of code after I finish the first 100 days.
