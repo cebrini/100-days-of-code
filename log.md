@@ -31,5 +31,5 @@
 
 **Today's Progress:** Worked on Rot13 challenge.
 
-**Thoughts:** Feeling a bit better about making head way. Got a good start on finishing up ROT13. Still not happy with my pace and it looks like I'll be filing these comments as retrospectives since some current pattern is tweeting and git commiting after midnight. I'm not sure if that's a problem though. Right now I'm not going to worry about it. I'll just continue focusing on getting something done each day.
+**Thoughts:** Feeling a bit better about making head way. Got a good start on finishing up ROT13. Still not happy with my pace and it looks like I'll be filing these comments as retrospectives since my current pattern is tweeting and git commiting after midnight. I'm not sure if that's a problem though. Right now I'm not going to worry about it. I'll just continue focusing on getting something done each day.
 
