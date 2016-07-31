@@ -26,3 +26,10 @@
 **Today's Progress:** Still struggling, but completed the "Search and Destroy" challenge.
 
 **Thoughts:** I didn't report anything for July 28th not because I wasn't working on code, but because I didn't feel like I had anything to show for my effort. While it's true I didn't complete a challenge, I feel in retrospect that I did benefit from putting the effort in. I hope to improve and be more consistant as I complete the 100 days. I hope to do another 100 days of code after I finish the first 100 days.
+
+### Day 4: July 30, 2016
+
+**Today's Progress:** Worked on Rot13 challenge.
+
+**Thoughts:** Feeling a bit better about making head way. Got a good start on finishing up ROT13. Still not happy with my pace and it looks like I'll be filing these comments as retrospectives since some current pattern is tweeting and git commiting after midnight. I'm not sure if that's a problem though. Right now I'm not going to worry about it. I'll just continue focusing on getting something done each day.
+
