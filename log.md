@@ -33,3 +33,10 @@
 
 **Thoughts:** Feeling a bit better about making head way. Got a good start on finishing up ROT13. Still not happy with my pace and it looks like I'll be filing these comments as retrospectives since my current pattern is tweeting and git commiting after midnight. I'm not sure if that's a problem though. Right now I'm not going to worry about it. I'll just continue focusing on getting something done each day.
 
+
+### Day 5: July 31, 2016
+
+**Today's Progress:** Completed ROT13 Challenge! Yay!
+
+**Thoughts:** Got a late start. Began around 11pm and just finished at 3am :-/ Even though I took me a while, it didn't seem as difficult this time. More of a psychological thing than a time constraint thing. This is good news. The time to completion should get shorter the more I do this (this being coding).
+
