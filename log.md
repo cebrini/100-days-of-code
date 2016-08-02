@@ -40,3 +40,10 @@
 
 **Thoughts:** Got a late start. Began around 11pm and just finished at 3am :-/ Even though I took me a while, it didn't seem as difficult this time. More of a psychological thing than a time constraint thing. This is good news. The time to completion should get shorter the more I do this (this being coding).
 
+#### Day6: August 1, 2016
+
+**Today's Progress:** Worked on "Where do I belong" for a couple of hours.
+
+**Toughts:** I have some ideas on how to complete this, but I'm just too tired right now. Will pickup where I left off tomorrow.
+
+
