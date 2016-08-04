@@ -52,3 +52,10 @@
 **Today's Progress:** Completed Mutation (Finally)!
 
 **Thoughts:** I completed the Mutation challenge from @freecodecamp's Basic Algorithms after struggling with it off and on for weeks. the breakthroough came when I finally gsve up on **NOT** using a for loop. That's right! I didn't think I needed to use a for loop, and for all but one of the inputs I didn't. mutation("floor", "for") was my little bete noir. But, not anymore!
+
+
+### Day 8: Aug 3, 2016
+
+**Today's Progress:** Completed "Where do I belong" Challenge!
+
+**Thoughts:** I'm done with all the Basic Algorithm challenges. Plan on going back to do the tribute and the porfolio challenges. I expect they will take more time so I'll  also see if I can bang oout a couple of the intermediate algorithm challenges (if possible).
