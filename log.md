@@ -59,3 +59,11 @@
 **Today's Progress:** Completed "Where do I belong" Challenge!
 
 **Thoughts:** I'm done with all the Basic Algorithm challenges. Plan on going back to do the tribute and the porfolio challenges. I expect they will take more time so I'll  also see if I can bang oout a couple of the intermediate algorithm challenges (if possible).
+
+
+### Day 9: Aug 4, 2016
+
+**Today's Progress:** Complete "Sum All Numbers in a Range" From the @freecodecamp Intermediate Algorithm challenges
+
+**Thoughts** Really didn't feel like doing today's coding, but once I got started it came pretty easily.
+Hope the easy part continues for a while!
