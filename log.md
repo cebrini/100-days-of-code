@@ -65,5 +65,11 @@
 
 **Today's Progress:** Complete "Sum All Numbers in a Range" From the @freecodecamp Intermediate Algorithm challenges
 
-**Thoughts** Really didn't feel like doing today's coding, but once I got started it came pretty easily.
+**Thoughts:** Really didn't feel like doing today's coding, but once I got started it came pretty easily.
 Hope the easy part continues for a while!
+
+### Day 10: Aug 5, 2016
+
+**Today's Progress:** Worked on "Diff Two Arrays" from @freecodecamp Untermediate Algorithm challenges.
+
+**Thoughts:** Didn't get as much done as I would like today. Hoping I'll be more productive tomorrow.
