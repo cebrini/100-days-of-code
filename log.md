@@ -79,3 +79,10 @@ Hope the easy part continues for a while!
 **Today's Progress:** Almost have "Diff Two Arrays" from @freecodecamp Intermediate Algorithm challenges.
 
 **Thoughts:** Accomplished quite a bit. I expect to complete the challenge by my next entery and begin work on the next one. Feeling more motivated the more I do. I hope this is a trend! 
+
+
+### Day 12: Aug 7, 2016
+
+**Today's Progress:** Completed "Diff two Arrays" from @freecodecamp Intermediate Algorithm callenges.
+
+**Thoughts:** Glad to complete another one of the challenges. I didn't use all the suggested array methods that the list. I guess that's alright but should probably go back and see if I missed learning something. I still want to improve on the length of time it takes me to do these challenges. I've noticed some improvement. I'm sure if I stick to it I'll improve over time.
