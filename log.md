@@ -86,3 +86,11 @@ Hope the easy part continues for a while!
 **Today's Progress:** Completed "Diff two Arrays" from @freecodecamp Intermediate Algorithm callenges.
 
 **Thoughts:** Glad to complete another one of the challenges. I didn't use all the suggested array methods that the list. I guess that's alright but should probably go back and see if I missed learning something. I still want to improve on the length of time it takes me to do these challenges. I've noticed some improvement. I'm sure if I stick to it I'll improve over time.
+
+
+### Day 13: Aug 8, 2016
+
+**Today's Progress:** Started work on "Roman Numeral Converter"
+
+**Thoughts:** DIdn't get as much accomplished as I wanted to today. Will start fresh tomorrow.
+
