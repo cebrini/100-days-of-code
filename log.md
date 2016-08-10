@@ -92,5 +92,10 @@ Hope the easy part continues for a while!
 
 **Today's Progress:** Started work on "Roman Numeral Converter"
 
-**Thoughts:** DIdn't get as much accomplished as I wanted to today. Will start fresh tomorrow.
+**Thoughts:** Didn't get as much accomplished as I wanted to today. Will start fresh tomorrow.
 
+### Day 14: Aug 9, 2016
+
+**Today's Progress:** Studied MDN's Docs on Array.prototype.<stuff>
+
+**Thoughts:** Decided to work on reviewing the documentation on MDN since most of the challenges for the @freeecodecamp Intermediate Algorithms stuff use a subset of the Array.prototype methods(?). My hope is that the review will help me speed up completing the challenges.
