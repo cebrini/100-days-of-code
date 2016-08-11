@@ -99,3 +99,9 @@ Hope the easy part continues for a while!
 **Today's Progress:** Studied MDN's Docs on Array.prototype.<stuff>
 
 **Thoughts:** Decided to work on reviewing the documentation on MDN since most of the challenges for the @freeecodecamp Intermediate Algorithms stuff use a subset of the Array.prototype methods(?). My hope is that the review will help me speed up completing the challenges.
+
+### Day 15: Aug 10, 2006
+
+**Today's Progress:** Worked on "Roman Numerial Converter"
+
+**Thoughts:** Spent bulk of time on RNC challenge, but nibbled on a couple of the other Intermediate Algorithm challenges as well. I didn't complete them, but did make progress all the same.
