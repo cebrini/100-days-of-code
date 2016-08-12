@@ -105,3 +105,9 @@ Hope the easy part continues for a while!
 **Today's Progress:** Worked on "Roman Numerial Converter"
 
 **Thoughts:** Spent bulk of time on RNC challenge, but nibbled on a couple of the other Intermediate Algorithm challenges as well. I didn't complete them, but did make progress all the same.
+
+### Day 16: Aug 11, 2016
+
+**Today's Progress:** attempted to solve some of the other Intermediate Algorithm problems.
+
+**Thoughts:** Didn't seem to be making much head way with the Roman Numerial Converter, so I made an attempt at solving some of the other algorithm challenges. 
