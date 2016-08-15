@@ -111,3 +111,9 @@ Hope the easy part continues for a while!
 **Today's Progress:** attempted to solve some of the other Intermediate Algorithm problems.
 
 **Thoughts:** Didn't seem to be making much head way with the Roman Numerial Converter, so I made an attempt at solving some of the other algorithm challenges. 
+
+### Day 17-19:  Aug 14, 2016
+
+**Today's Progress:** Finally completed another challenge!
+
+**Thoughts:** Yes I was a bad boy and didn't add to this log for several days. But, in my defense I was working on coding. I just didn't feel like I was making progress at the time. However, I broke through one of my blocks and completed another Intermediate Algorithm challenge from @freecodecamp. The challenge? Binary Agents.
