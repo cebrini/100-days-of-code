@@ -102,7 +102,7 @@ Hope the easy part continues for a while!
 
 ### Day 15: Aug 10, 2006
 
-**Today's Progress:** Worked on "Roman Numerial Converter"
+**Today's Progress:** Worked on "Roman Numeral Converter"
 
 **Thoughts:** Spent bulk of time on RNC challenge, but nibbled on a couple of the other Intermediate Algorithm challenges as well. I didn't complete them, but did make progress all the same.
 
@@ -110,7 +110,7 @@ Hope the easy part continues for a while!
 
 **Today's Progress:** attempted to solve some of the other Intermediate Algorithm problems.
 
-**Thoughts:** Didn't seem to be making much head way with the Roman Numerial Converter, so I made an attempt at solving some of the other algorithm challenges. 
+**Thoughts:** Didn't seem to be making much head way with the Roman Numeral Converter, so I made an attempt at solving some of the other algorithm challenges. 
 
 ### Day 17-19:  Aug 14, 2016
 
@@ -121,6 +121,11 @@ Hope the easy part continues for a while!
 
 ### Day 20: Aug 16, 2016
 
-**Today's Progress:** Worked on Roman Numerial Converter Again. Getrting close!
+**Today's Progress:** Worked on Roman Numeral Converter Again. Getrting close!
 
-**Thoughts:** Turned my attention back to the Roman Numerial Converter problem and actually made some real progress. I hope to be finished with it by the end of Wednesday. 
+**Thoughts:** Turned my attention back to the Roman Numeral Converter problem and actually made some real progress. I hope to be finished with it by the end of Wednesday. 
+
+
+### Day 21: Aug 17, 2016
+
+**Today's Progress:** Finally completed the Roman Numeral Converter challenge.
