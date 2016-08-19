@@ -129,3 +129,11 @@ Hope the easy part continues for a while!
 ### Day 21: Aug 17, 2016
 
 **Today's Progress:** Finally completed the Roman Numeral Converter challenge.
+
+**Thoughts:** Was happy to get this one done. I was starting to question if this was a good idea.
+
+### Day 22: Aug 18, 2016
+
+**Today's Progress:** Started working on another @FreeCodeCamp Intermediate Algorithms Challenge Called "Everthing Be True".
+
+**Thoughts:** I don't think it will take me long to complete it. Wonder when I'll start completing more at once. Oh well! Time will tell!
