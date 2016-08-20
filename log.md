@@ -137,3 +137,11 @@ Hope the easy part continues for a while!
 **Today's Progress:** Started working on another @FreeCodeCamp Intermediate Algorithms Challenge Called "Everthing Be True".
 
 **Thoughts:** I don't think it will take me long to complete it. Wonder when I'll start completing more at once. Oh well! Time will tell!
+
+
+### Day 23: Aug 19, 2016
+
+**Today's Progress:** Almost finished with Everthing Be True.
+
+**Thoughts:** I'd be finished with this challenge but for one test that fails NaN isn't being detected for some strange reason and I'm running out of ideas how to fix it. May have to cry uncle and ask for help.
+"Everything Be True" isn't the only challenge that is waiting on just one test to pass. I have at least one other challenge that is causing me fits. Oh well I'll get it eventually.
