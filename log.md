@@ -151,11 +151,18 @@ Hope the easy part continues for a while!
 
 **Today's Progress:** Completed "Everything Be True" Challenge!
 
-**Thought:** Solved the problem I was having with  detecting the NaN emelent in the array. Solve by going to MDN and reading up on NaN. RTFM! On to the next challenge!
+**Thoughts:** Solved the problem I was having with  detecting the NaN emelent in the array. Solve by going to MDN and reading up on NaN. RTFM! On to the next challenge!
 
 
 ### Day 25: Aug 21, 2016
 
 **Today's Progress:** Spent time reviewing documentation on Arrays.
 
-**Thought:** Decided to take it easy and just review what I've learned. I will continue tomorrow with another intermediate algorithm challenge.
+**Thoughts:** Decided to take it easy and just review what I've learned. I will continue tomorrow with another intermediate algorithm challenge.
+
+
+### Day 26: Aug 22, 2016
+
+**Today's Progress:** worked on several Intermediate Algorithm challenges
+
+**Thoughts:**  Should have at least one of the challenges done sometime tomorrow. I'm working on "Wherefore Art Thou" and Steamroller and one of two others.
