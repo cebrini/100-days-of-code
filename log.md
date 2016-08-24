@@ -166,3 +166,10 @@ Hope the easy part continues for a while!
 **Today's Progress:** worked on several Intermediate Algorithm challenges
 
 **Thoughts:**  Should have at least one of the challenges done sometime tomorrow. I'm working on "Wherefore Art Thou" and Steamroller and one of two others.
+
+
+### Day 27: Aug 23, 2016
+
+**Today's Progress:** Completed "Wherefore Art Thou" Intermediate Algorithm Challenge.
+
+**Thoughts:** Fell asleep at the keyboard, but after the nap was able to complete this challenge.
