@@ -173,3 +173,10 @@ Hope the easy part continues for a while!
 **Today's Progress:** Completed "Wherefore Art Thou" Intermediate Algorithm Challenge.
 
 **Thoughts:** Fell asleep at the keyboard, but after the nap was able to complete this challenge.
+
+
+### Day 28: Aug 24, 2016
+
+**Today's Progress:** Visited @freecodecamp's forums
+
+**Thoughts:** While looking at some of the algorithm solutions that folks were posting in the forums I noticed many were using for loops, were I used Array methods like forEach(), map(), filter(), and reduce(). It made me feel good! I still struggle with using the methods instead of the for loop, but it's getting easier.
