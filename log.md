@@ -180,3 +180,10 @@ Hope the easy part continues for a while!
 **Today's Progress:** Visited @freecodecamp's forums
 
 **Thoughts:** While looking at some of the algorithm solutions that folks were posting in the forums I noticed many were using for loops, were I used Array methods like forEach(), map(), filter(), and reduce(). It made me feel good! I still struggle with using the methods instead of the for loop, but it's getting easier.
+
+
+### Day(s) 29-33: Aug 29, 2016
+
+**Today's Progress:** Completed FCC's Search and Replace 
+
+**Thoughts:** Spent so time reviewing by reading Javascript Patterns by Stoyan Stefanov. I focused on the Functions chapter and found some useful information their regarding curry functions and the like. Today I completed the Search and Replace challenge mentioned above. It turned out to be fairly easy.
