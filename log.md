@@ -187,3 +187,10 @@ Hope the easy part continues for a while!
 **Today's Progress:** Completed FCC's Search and Replace 
 
 **Thoughts:** Spent so time reviewing by reading Javascript Patterns by Stoyan Stefanov. I focused on the Functions chapter and found some useful information their regarding curry functions and the like. Today I completed the Search and Replace challenge mentioned above. It turned out to be fairly easy.
+
+
+### Day(s) 34-37: Sept 5, 2016
+ 
+**Today's Progress:** completed Pig Latin challenge
+
+**Thoughts:** Spent most of my time reading Sitepoint's book Javascript Novice to Ninja. It's a good intro to Javascript is well written easy to understand. If I were going to  teach a class I'd consider using it as a text book. So that is what I've been doing the last couple of days. Oh and I completed @freecodecamp's Intermediate Algorithm challenge "Pig Latin". I can see an improvment in my ability to come up with a game play on how I'm going to tackle a problem.  I'd say that's a good sign!
